@@ -1,6 +1,6 @@
 # DancingDinos
 A generative NFT collection
-<br>
+<h>
 
 This collection of 1,000 unique NFTs was generated using:
 
